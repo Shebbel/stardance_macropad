@@ -9,3 +9,11 @@ A 6 key macropod with a rotary encoder and oled display
 |Seeed XIAO RP2040	| 1x|
 |MX-Style switches	  |6x    |
 |1N4148 Diodes  |6x       |
+|EC11 rotary encoder  |1x       |
+|0.91 inch OLED display	  |1x       |
+|keycaps  |6x       |
+|SK6812 MINI-E LED  |14x       |
+|M3x16mm screw	  |4x       |
+|M3x5mx4mm heatset insert|4x       |
+|case ( 2parts)  |1x       |
+|PCB  |1x       |
