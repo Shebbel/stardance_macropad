@@ -2,6 +2,7 @@
 A 6 key macropad with a rotary encoder and oled display
 I started with this macropad guide, because it tought it was a good start regarding future projects. 
 It includes a six key macropad with a key matrix, a oled and a rotary encoder 
+You can edit the function of the macropad using the VIA website.
 I used AI to explain the error codes from the drc and the compiling errors.
 <img width="1041" height="567" alt="schematic" src="https://github.com/user-attachments/assets/25fd1d3b-a499-4d4f-9e76-4eaca4c0fc46" />
 <img width="500" height="486" alt="PCB" src="https://github.com/user-attachments/assets/bbd125ab-0bc4-4b52-8c51-f62bcec7db15" />
